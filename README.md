@@ -16,3 +16,7 @@ pip install requests
 ### GUI
 
 ![ChuckJokesGUI](https://user-images.githubusercontent.com/121186555/210901482-5af4c580-3417-488c-9647-1798d6021b70.PNG)
+
+### API Credit to Chuck Norris API by mattchilling (Rapid API)
+
+[Chuck Norris API Website](https://api.chucknorris.io/)
